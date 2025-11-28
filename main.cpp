@@ -1,4 +1,4 @@
-// File:ListProducts.cpp
+// File: AppMain.cpp
 // Applies List Class: Ordered linked list
 
 #include <iostream>
@@ -41,3 +41,4 @@ int main()
 	
 	return 0;
 }
+
